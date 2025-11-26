@@ -1,5 +1,9 @@
 <h1 align="center">Hello 👋 I'm Grey Nguyen</h1>
-<h3 align="center">Information Technology @ Curtin University. And I love building and breaking stuff!</h3>
+<h3 align="center">Information Technology @ Curtin University. 
+  <br>
+    A space that aims to create new things that attract attention in a different way from what is usual or expected.
+  </br>
+</h3>
 
 <p align="center">
   <a href="https://greynxtgn.vercel.app">

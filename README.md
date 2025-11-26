@@ -1,7 +1,7 @@
 <h1 align="center">Hello 👋 I'm Grey Nguyen</h1>
 <h3 align="center">Information Technology @ Curtin University. 
   <br>
-    This is a space that aims to create new things that attract attention in a different way from what is usual or expected.
+    My space where I create new things in a different way from what is usual or expected.
   </br>
 </h3>
 

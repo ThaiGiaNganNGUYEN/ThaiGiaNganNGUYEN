@@ -22,7 +22,7 @@
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThaiGiaNganNGUYEN&layout=compact"
+    src="https://github-readme-stats-coral-five-33.vercel.app/api/top-langs/?username=ThaiGiaNganNGUYEN&layout=compact"
     alt="ThaiGiaNganNGUYEN's Top Languages"
   />
 </p>

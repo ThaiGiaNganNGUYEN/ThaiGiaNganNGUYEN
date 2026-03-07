@@ -28,7 +28,3 @@
 <a href="https://www.instagram.com/_noirxze_/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_noirxze_" height="30" width="40" /></a>
 <a href="https://www.youtube.com/@Ng%C3%A2nTh%C3%A1i-m5r" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="Ng%C3%A2nTh%C3%A1i-m5r" height="30" width="40" /></a>
 </p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ThaiGiaNganNGUYEN&style=plastic&label=PROFILE+VIEWS&color=007bff" alt="Grey Profile Views" />
-</p>

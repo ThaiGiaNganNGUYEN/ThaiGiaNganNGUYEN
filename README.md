@@ -30,5 +30,5 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=khoinguyenpham04&style=plastic&label=PROFILE+VIEWS&color=007bff" alt="Noah Pham Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=ThaiGiaNganNGUYEN&style=plastic&label=PROFILE+VIEWS&color=007bff" alt="Grey Profile Views" />
 </p>

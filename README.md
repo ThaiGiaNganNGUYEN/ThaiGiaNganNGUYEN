@@ -1,9 +1,5 @@
 <h1 align="center">Hello 👋 I'm Grey Nguyen</h1>
-<h3 align="center">Information Technology @ Curtin University. 
-  <br>
-    My space where I create new things in a different way from what is usual or expected.
-  </br>
-</h3>
+<h3 align="center">Information Technology @ Curtin University. </h3>
 
 <p align="center">
   <a href="https://greynxtgn.vercel.app">
@@ -14,6 +10,7 @@
 <table>
 <tr>
 <td width="100%" valign="top">
+  
 - 🤓 I'm currently learning **IT/Cyber Security**
 
 - 📫 How to reach me **ntgngan3107@gmail.com**
@@ -30,4 +27,8 @@
 <a href="https://linkedin.com/in/thai-gia-ngan-nguyen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="thai-gia-ngan-nguyen" height="30" width="40" /></a>
 <a href="https://www.instagram.com/_noirxze_/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_noirxze_" height="30" width="40" /></a>
 <a href="https://www.youtube.com/@Ng%C3%A2nTh%C3%A1i-m5r" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="Ng%C3%A2nTh%C3%A1i-m5r" height="30" width="40" /></a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=khoinguyenpham04&style=plastic&label=PROFILE+VIEWS&color=007bff" alt="Noah Pham Profile Views" />
 </p>

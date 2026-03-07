@@ -12,11 +12,13 @@
 </p>
 
 <table>
+<tr>
 - 🤓 I'm currently learning **IT/Cyber Security**
 
 - 📫 How to reach me **ntgngan3107@gmail.com**
 
 - ⚡ Fun fact **My interests include photography, music, and sports!**
+</tr>
 </table>
 <br clear="both">
 

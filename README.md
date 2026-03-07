@@ -13,11 +13,13 @@
 
 <table>
 <tr>
+<td width="100%" valign="top">
 - 🤓 I'm currently learning **IT/Cyber Security**
 
 - 📫 How to reach me **ntgngan3107@gmail.com**
 
 - ⚡ Fun fact **My interests include photography, music, and sports!**
+</td>
 </tr>
 </table>
 <br clear="both">

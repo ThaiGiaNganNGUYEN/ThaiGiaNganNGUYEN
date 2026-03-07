@@ -12,20 +12,11 @@
 </p>
 
 <table>
-<tr>
-<td width="50%" valign="top">
-
 - 🤓 I'm currently learning **IT/Cyber Security**
 
 - 📫 How to reach me **ntgngan3107@gmail.com**
 
 - ⚡ Fun fact **My interests include photography, music, and sports!**
-
-</td>
-<td width="50%" valign="top">
-
-</td>
-</tr>
 </table>
 <br clear="both">
 
